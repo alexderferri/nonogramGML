@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"PuzzleClasses",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"PuzzleClasses",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

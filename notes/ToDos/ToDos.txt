@@ -1,0 +1,11 @@
+These are all features I wish to implement in future releases for this example project.
+I might want to migrate this notes into the GitHub repository of the project.
+If you want to request something which is not listed below, please reach me out at alexferrer96@gmail.com
+
+
+To-Do Next:
+
+- Turn a puzzle entity into a class instead of a simple matrix of numbers
+- Saving and loading puzzle data from a JSON or any other format
+- Puzzle library to store your own puzzles and play the ones you want on runtime
+- Puzzle editor to make your own puzzle inside the game and save it for later use

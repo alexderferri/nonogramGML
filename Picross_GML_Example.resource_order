@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
+    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
+    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fntDebug","order":1,"path":"fonts/fntDebug/fntDebug.yy",},
+    {"name":"oPuzzleFactory","order":1,"path":"objects/oPuzzleFactory/oPuzzleFactory.yy",},
+    {"name":"Globals","order":1,"path":"scripts/Globals/Globals.yy",},
+    {"name":"MockData","order":2,"path":"scripts/MockData/MockData.yy",},
+    {"name":"Utils","order":3,"path":"scripts/Utils/Utils.yy",},
+    {"name":"sBackground","order":3,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sCursor","order":2,"path":"sprites/sCursor/sCursor.yy",},
+    {"name":"sFlagIcon","order":1,"path":"sprites/sFlagIcon/sFlagIcon.yy",},
+  ],
+}
